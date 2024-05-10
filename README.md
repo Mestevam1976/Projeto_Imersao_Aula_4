@@ -1,4 +1,4 @@
-<h1>Projeto_Imersao_Aula_4 - ChatBot "Ajuda_AI"<img src="https://st3.depositphotos.com/8950810/17657/v/450/depositphotos_176577870-stock-illustration-cute-smiling-funny-robot-chat.jpg" width=100 height=100></h1>
+<h1>Projeto_Imersao_Aula_4 - ChatBot "Ajuda_AI"<img src="https://st3.depositphotos.com/8950810/17657/v/450/depositphotos_176577870-stock-illustration-cute-smiling-funny-robot-chat.jpg" width=150 height=150></h1>
 <hr>
 <h2>Introdução</h2>
 <p>O Google AI Studio é uma plataforma low-code baseada em nuvem que permite que desenvolvedores e cientistas de dados criem e implantem modelos de aprendizado de máquina (ML) com facilidade. Ele oferece uma interface amigável e componentes pré-construídos, tornando o ML acessível a uma gama mais ampla de usuários.</p> 
