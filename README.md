@@ -12,3 +12,5 @@
 <li><b>Recomendações de Profissionais:</b> Quando necessário, recomendar profissionais de manutenção confiáveis na área do usuário, garantindo reparos de alta qualidade.</li>
 <li><b>Acesso a Recursos:</b> Fornecer acesso a uma biblioteca de artigos, vídeos e outros recursos sobre manutenção residencial, capacitando os usuários com conhecimento e habilidades.</li>
 <li><b>Atendimento ao Cliente Excepcional:</b> Oferecer atendimento ao cliente excepcional, respondendo prontamente às perguntas dos usuários, resolvendo problemas e fornecendo assistência personalizada.</li>
+<hr>
+<li><b><a href='https://github.com/Mestevam1976/Projeto_Imersao_Aula_4/blob/7bb6db5d7aa89fb893c8595138a55318c0972e44/Ajuda_AI_Uma_IA_para_te_auxiliar_em_manuten%C3%A7%C3%A3o_residencial.ipynb'>Notebook do Projeto ChatBot "Ajuda_AI"</a></b></li>
